@@ -46,7 +46,7 @@
 
 ## Deploy da Aplicação com Netlify: :dash:
 
-> https://marco-dsvendas.netlify.app/dashboard
+> https://marco-dsvendas.netlify.app/
 
 
 
