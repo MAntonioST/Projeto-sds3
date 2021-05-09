@@ -27,11 +27,27 @@
 ![Web 1](https://github.com/MAntonioST/projeto-sds3/blob/main/frontend/src/assets/img/page3.png)
 
 
-### Tecnologias
+## Tecnolgias
 
 * Java
 * Spring Boot
 * React 
+
+## Implantação em produção
+- Back end: Heroku
+- Front end web: Netlify
+- Banco de dados: Postgresql
+
+
+## Status do Projeto: 
+
+> Concluido :heavy_check_mark:
+
+
+## Deploy da Aplicação com Netlify: :dash:
+
+> https://marco-dsvendas.netlify.app/dashboard
+
 
 
 <!-- LICENSE -->
