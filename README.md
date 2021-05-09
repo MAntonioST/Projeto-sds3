@@ -1,4 +1,10 @@
+<p align="center">
 
+
+
+  <h1 style= display:none lign="center">DSVendas - Semana Spring React - SDS 3.0</h1>
+ 
+ </p>
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
