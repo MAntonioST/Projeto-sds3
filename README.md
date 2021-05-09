@@ -1,11 +1,3 @@
-<p align="center">
- <h4 align="center"> 
-	🚧  Em construção...  🚧
-</h4>
-
-  <h1 style= display:none lign="center">DSVendas - Semana Spring React - SDS 3.0</h3>
- 
- </p>
 
 
 <!-- ABOUT THE PROJECT -->
